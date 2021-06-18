@@ -32,6 +32,9 @@
 *.out
 *.app
 
+### FiveM resources
+citizen/system_resources/
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
